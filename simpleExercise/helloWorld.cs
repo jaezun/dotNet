@@ -1,3 +1,5 @@
+// Simple Hello World program
+
 using System;
 
 namespace HelloWorld
